@@ -1,5 +1,12 @@
 package net.diego;
 
+/**
+ * Entry point of the program.
+ * Displays the menu and allows the user to interact
+ * with the student system (register students, view grades,
+ * see statistics, and search for students).
+ */
+
 import java.util.*;
 
 public class Main {

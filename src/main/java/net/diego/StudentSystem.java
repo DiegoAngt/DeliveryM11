@@ -1,5 +1,12 @@
 package net.diego;
 
+/**
+ * Main class of the Student Management System.
+ * It controls the program menu, manages student data,
+ * and calls the methods used to calculate statistics
+ * and search for students.
+ */
+
 import java.util.*;
 
 public class StudentSystem {

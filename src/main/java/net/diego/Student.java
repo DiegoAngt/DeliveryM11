@@ -1,5 +1,10 @@
 package net.diego;
 
+/**
+ * Represents a student.
+ * This class extends Person and adds the student's grade.
+ */
+
 public class Student extends Person {
 
     private double grade;

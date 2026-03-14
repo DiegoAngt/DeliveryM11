@@ -1,5 +1,10 @@
 package net.diego;
 
+/**
+ * Base class that represents a person in the system.
+ * It stores common attributes such as name and age.
+ */
+
 public class Person {
     private String name;
     private int age;
